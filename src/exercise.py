@@ -1,6 +1,6 @@
 def main():
     #write your code below this line
-    string = input("Give a string:")
+    string = input()
 
     if string == "True":
         print("You got it right!")
