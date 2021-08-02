@@ -2,7 +2,7 @@ def main():
     #write your code below this line
     string = input("Give a string:")
 
-    if word == "True":
+    if string == "True":
         print("You got it right!")
     else:
         print("Try again!")
